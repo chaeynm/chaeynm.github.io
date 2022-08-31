@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: '#'include <yunalog.h>
+title: "#include <yunalog.h>"
 email: myoung.yuna@gmail.com
 author: Yuna
 copyright: Copyright © 2022
